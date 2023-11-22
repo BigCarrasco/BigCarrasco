@@ -1,6 +1,5 @@
-🇲- 👋 Hi, I’m @BigCarrasco 🇲🇽
-- 👀 I am interested in creating real solutions with best performance.
- 
+Rocking the Data Engineering, 🇲🇽
+
 
 <!---
 BigCarrasco/BigCarrasco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
