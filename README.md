@@ -1,4 +1,4 @@
-Rocking the Data Engineering, 🇲🇽
+Rocking the Data Engineering 🇲🇽
 
 
 <!---
