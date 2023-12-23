@@ -1,4 +1,4 @@
-Rockstaring with data & software engineering 🇲🇽
+🤘 Rockstaring the data & software engineering 🇲🇽
 
 
 <!---
