@@ -1,7 +1,36 @@
-🤘 Rockstaring the data & software engineering 🇲🇽
+<h1 align="center">Mike Carrasco</h1>
 
+<p align="center">
+  <strong>Python & Go Backend | AWS Serverless | React</strong>
+</p>
 
-<!---
-BigCarrasco/BigCarrasco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### Tech Stack
+
+| Backend | Frontend | Cloud |
+|--------|----------|-------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) |
+| ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=amazon-aws&logoColor=white) |
+| ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) | ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white) |
+
+---
+
+### Featured Project
+
+#### [Serverless Job Board](https://jobboard.mikecarrasco.com)  
+> Full-stack app on AWS Serverless  
+> *Code private — available on request*
+
+- React + TypeScript frontend  
+- FastAPI (Python) + Gin (Go) backend  
+- Lambda, API Gateway, DynamoDB, S3
+
+![Demo](demo.gif) <!-- 10s GIF del proyecto -->
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bigcarrasco">LinkedIn</a> • 
+  <a href="https://github.com/BigCarrasco">GitHub</a>
+</p>
