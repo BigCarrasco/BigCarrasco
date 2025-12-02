@@ -1,9 +1,14 @@
-<h1 align="center">Mike Carrasco</h1>
+<h1 align="center">Mike Carrasco 👋</h1> 
 
 <p align="center">
-  <strong>Python & Go Backend | AWS Serverless | React</strong>
+  <strong>Python Backend | AWS Serverless | React</strong>
 </p>
 
+I'm a software developer from Mexico. 🇲🇽 
+
+I currently live in Dublin, Ireland. 🇮🇪 
+
+I’ve been building some APIs & currently focused on building Serverless, but I can build any kind of solutions.
 ---
 
 ### Tech Stack
