@@ -9,6 +9,7 @@
 <p align="center">I currently live in Dublin, Ireland. 🇮🇪 </p>
 
 <p  align="center">I’ve been building some APIs & currently focused on building Serverless, but I can build any kind of solutions.</p>
+
 ---
 
 ### Tech Stack
