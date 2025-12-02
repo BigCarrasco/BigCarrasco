@@ -8,7 +8,7 @@ I'm a software developer from Mexico. 🇲🇽
 
 I currently live in Dublin, Ireland. 🇮🇪 
 
-I’ve been building some APIs & currently focused on building Serverless, but I can build any kind of solutions.
+<p  align="center">I’ve been building some APIs & currently focused on building Serverless, but I can build any kind of solutions.</p>>
 ---
 
 ### Tech Stack
